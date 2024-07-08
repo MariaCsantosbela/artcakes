@@ -1,0 +1,31 @@
+
+.navbar-nav .nav-link.active{
+    color: white;
+}
+.nav-link{
+    text-align: center;
+}
+header{
+    background-color: rgb(250,87,116);
+    font: bolder;
+}
+header h1{
+    color: white;
+}
+section{
+    height: 100vh;
+    background-color: rgb(249,233,229);
+}
+body{
+    background-color:rgb(249,233,229) ;
+}
+a.btn{
+    display: block;
+}
+.post{
+    margin-bottom: 24px;
+}
+.texto{
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
